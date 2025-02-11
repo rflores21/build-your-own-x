@@ -1,0 +1,29 @@
+{
+    "passwords": {
+        "camelweb": {
+            "username": "rflores2",
+            "password": "I_am_a_gama54321",
+            "notes": "This is the password for CamelWeb"
+        },
+        "school email": {
+            "username": "rflores2@conncoll.edu",
+            "password": "I_am_a_gama54321",
+            "notes": "This is the password for my school email"
+        },
+        "github": {
+            "username": "rflores2",
+            "password": "I_am_a_gama54321",
+            "notes": "Sign in with gmail account"
+        },
+        "2nd instagram": {
+            "username": "ricardi_flower",
+            "password": "-YQV9xg<L}",
+            "notes": "my alt insta for giveaways"
+        },
+        "microsoft": {
+            "username": "brumuu",
+            "password": "oFL_;lQp.kIn,:y(]N6U",
+            "notes": "this is a tester"
+        }
+    }
+}
